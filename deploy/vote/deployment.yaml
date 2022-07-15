@@ -20,6 +20,6 @@ spec:
         tier: front
     spec:
       containers:
-      - image: schoolofdevops/instavote:v1
+      - image: zavrelmi/vote:v1
         name: vote
         resources: {}
